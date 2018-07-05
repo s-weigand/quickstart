@@ -1,1 +1,1 @@
-pip install git+https://github.com/glotaran/glotaran.git
+pip install git+https://github.com/s-weigand/glotaran.git@make-pip+git-install-possible --process-dependency-links
