@@ -1,1 +1,1 @@
-pip3 install git+https://github.com/glotaran/glotaran.git
+pip install git+https://github.com/glotaran/glotaran.git
