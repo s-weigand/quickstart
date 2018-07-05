@@ -1,0 +1,7 @@
+# glotaran setup dependencies
+numpy>=1.9.1
+scipy>=1.0.0
+Cython>=0.28.3
+
+# jupyterlab to run the notebooks
+jupyterlab
