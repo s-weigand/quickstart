@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/s-weigand/quickstart.git/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/s-weigand/quickstart.git/master?urlpath=lab)
 
 # quickstart
 A repository with a example projects and bootstrap files.
