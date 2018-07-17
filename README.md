@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/s-weigand/quickstart.git/master?urlpath=lab/tree/examples/fit_data_in_vivo_cyano_data.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/s-weigand/quickstart.git/master?urlpath=lab/tree/examples/getting_started.ipynb)
 
 # quickstart
 A repository with a example projects and bootstrap files.
